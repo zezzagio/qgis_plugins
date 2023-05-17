@@ -6,7 +6,7 @@
       <description>Crea cornici per le stampe</description>
       <version>1.5</version>
       <qgis_minimum_version>3.0</qgis_minimum_version>
-      <homepage>//github.com/zezzagio/cornici_viste</homepage>
+      <homepage>//github.com/zezzagio/qgis_plugins</homepage>
       <file_name>cornici_viste.1.5.zip</file_name>
       <author_name>Giovanni Zezza</author_name>
       <download_url>//raw.githubusercontent.com/zezzagio/qgis_plugins/cornici_viste/main/cornici_viste.1.5.zip</download_url>
@@ -17,7 +17,7 @@
       <description>Esporta elenco cartellini da stampare</description>
       <version>0.2</version>
       <qgis_minimum_version>3.0</qgis_minimum_version>
-      <homepage>//github.com/zezzagio/esporta_cartellini</homepage>
+      <homepage>//github.com/zezzagio/qgis_plugins</homepage>
       <file_name>esporta_cartellini.zip</file_name>
       <author_name>Giovanni Zezza</author_name>
       <download_url>//raw.githubusercontent.com/zezzagio/qgis_plugins/esporta_cartellini/main/esporta_cartellini.zip</download_url>
@@ -28,7 +28,7 @@
       <description>Esporta il GIS di Bologna negli shape per il Comune</description>
       <version>0.1</version>
       <qgis_minimum_version>2.0</qgis_minimum_version>
-      <homepage>//github.com/zezzagio/esporta_gis</homepage>
+      <homepage>//github.com/zezzagio/qgis_plugins</homepage>
       <file_name>esporta_gis.zip</file_name>
       <author_name>Giovanni Zezza</author_name>
       <download_url>//raw.githubusercontent.com/zezzagio/qgis_plugins/esporta_gis/main/esporta_gis.zip</download_url>
@@ -39,7 +39,7 @@
       <description>Ricerche nel GIS di Bologna</description>
       <version>1.5</version>
       <qgis_minimum_version>3.0</qgis_minimum_version>
-      <homepage>//github.com/zezzagio/gisbo_cerca</homepage>
+      <homepage>//github.com/zezzagio/qgis_plugins</homepage>
       <file_name>gisbo_cerca.zip</file_name>
       <author_name>Giovanni Zezza</author_name>
       <download_url>//raw.githubusercontent.com/zezzagio/qgis_plugins/gisbo_cerca/main/gisbo_cerca.zip</download_url>
@@ -50,7 +50,7 @@
       <description>Ricerche nel GIS di Bologna</description>
       <version>1.6</version>
       <qgis_minimum_version>2.0</qgis_minimum_version>
-      <homepage>//github.com/zezzagio/gisbo_cerca/</homepage>
+      <homepage>//github.com/zezzagio/qgis_plugins</homepage>
       <file_name>gisbo_cerca_bkp.zip</file_name>
       <author_name>Giovanni Zezza</author_name>
       <download_url>//raw.githubusercontent.com/zezzagio/qgis_plugins/gisbo_cerca_bkp/main/gisbo_cerca_bkp.zip</download_url>
