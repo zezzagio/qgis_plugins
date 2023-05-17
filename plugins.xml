@@ -9,7 +9,7 @@
       <homepage><![CDATA[https://github.com/zezzagio/qgis_plugins]]></homepage>
       <file_name>cornici_viste.1.5.zip</file_name>
       <author_name>Giovanni Zezza</author_name>
-      <download_url>https://raw.githubusercontent.com/zezzagio/qgis_plugins/cornici_viste/main/cornici_viste.1.5.zip</download_url>
+      <download_url>https://raw.githubusercontent.com/zezzagio/qgis_plugins/main/cornici_viste.1.5.zip</download_url>
       <create_date>2020-07-20</create_date>
       <update_date>2020-07-20</update_date>
    </pyqgis_plugin>
@@ -20,7 +20,7 @@
       <homepage><![CDATA[https://github.com/zezzagio/qgis_plugins]]></homepage>
       <file_name>esporta_cartellini.zip</file_name>
       <author_name>Giovanni Zezza</author_name>
-      <download_url>https://raw.githubusercontent.com/zezzagio/qgis_plugins/esporta_cartellini/main/esporta_cartellini.zip</download_url>
+      <download_url>https://raw.githubusercontent.com/zezzagio/qgis_plugins/main/esporta_cartellini.zip</download_url>
       <create_date>2023-03-27</create_date>
       <update_date>2023-03-27</update_date>
    </pyqgis_plugin>
@@ -31,7 +31,7 @@
       <homepage><![CDATA[https://github.com/zezzagio/qgis_plugins]]></homepage>
       <file_name>esporta_gis.zip</file_name>
       <author_name>Giovanni Zezza</author_name>
-      <download_url>https://raw.githubusercontent.com/zezzagio/qgis_plugins/esporta_gis/main/esporta_gis.zip</download_url>
+      <download_url>https://raw.githubusercontent.com/zezzagio/qgis_plugins/main/esporta_gis.zip</download_url>
       <create_date>2015-01-28</create_date>
       <update_date>2015-01-28</update_date>
    </pyqgis_plugin>
@@ -42,7 +42,7 @@
       <homepage><![CDATA[https://github.com/zezzagio/qgis_plugins]]></homepage>
       <file_name>gisbo_cerca.zip</file_name>
       <author_name>Giovanni Zezza</author_name>
-      <download_url>https://raw.githubusercontent.com/zezzagio/qgis_plugins/gisbo_cerca/main/gisbo_cerca.zip</download_url>
+      <download_url>https://raw.githubusercontent.com/zezzagio/qgis_plugins/main/gisbo_cerca.zip</download_url>
       <create_date>2021-07-09</create_date>
       <update_date>2021-07-09</update_date>
    </pyqgis_plugin>
@@ -53,7 +53,7 @@
       <homepage><![CDATA[https://github.com/zezzagio/qgis_plugins]]></homepage>
       <file_name>gisbo_cerca_bkp.zip</file_name>
       <author_name>Giovanni Zezza</author_name>
-      <download_url>https://raw.githubusercontent.com/zezzagio/qgis_plugins/gisbo_cerca_bkp/main/gisbo_cerca_bkp.zip</download_url>
+      <download_url>https://raw.githubusercontent.com/zezzagio/qgis_plugins/main/gisbo_cerca_bkp.zip</download_url>
       <create_date>2015-07-27</create_date>
       <update_date>2015-07-27</update_date>
    </pyqgis_plugin>
