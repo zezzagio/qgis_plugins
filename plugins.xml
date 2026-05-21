@@ -39,12 +39,24 @@
       <description>Ricerche nel GIS di Bologna</description>
       <version>1.5</version>
       <qgis_minimum_version>3.0</qgis_minimum_version>
+      <qgis_maximum_version>4.0</qgis_maximum_version>
       <homepage><![CDATA[https://github.com/zezzagio/qgis_plugins]]></homepage>
       <file_name>gisbo_cerca.zip</file_name>
       <author_name>Giovanni Zezza</author_name>
       <download_url>https://raw.githubusercontent.com/zezzagio/qgis_plugins/main/gisbo_cerca.zip</download_url>
       <create_date>2021-07-09</create_date>
       <update_date>2021-07-09</update_date>
+   </pyqgis_plugin>
+   <pyqgis_plugin name="Cerca GIS Bologna" version="3">
+      <description>Ricerche nel GIS di Bologna</description>
+      <version>3</version>
+      <qgis_minimum_version>4.0</qgis_minimum_version>
+      <homepage><![CDATA[https://github.com/zezzagio/qgis_plugins]]></homepage>
+      <file_name>gisbo_cerca4.zip</file_name>
+      <author_name>Giovanni Zezza</author_name>
+      <download_url>https://raw.githubusercontent.com/zezzagio/qgis_plugins/main/gisbo_cerca4.zip</download_url>
+      <create_date>2026-05-21</create_date>
+      <update_date>2026-05-21</update_date>
    </pyqgis_plugin>
    <pyqgis_plugin name="Cerca GIS Bologna" version="1.6">
       <description>Ricerche nel GIS di Bologna</description>
